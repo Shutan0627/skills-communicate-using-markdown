@@ -6,3 +6,6 @@
 ```Python
 print("hello world!")
 ```
+
+- [x] List syntax is required
+- [ ] this item is not complete
